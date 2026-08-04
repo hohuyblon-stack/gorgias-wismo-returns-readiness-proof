@@ -15,7 +15,7 @@ A narrow operator workflow for one practical question: can a support case become
 a grounded, review-only draft, or must it remain a human-owned action or
 escalation?
 
-[Static evidence page](https://hohuyblon-stack.github.io/gorgias-wismo-returns-readiness-proof/) ·
+[Static evidence page](https://builtbyhuy.github.io/gorgias-wismo-returns-readiness-proof/) ·
 [Architecture](docs/ARCHITECTURE.md) ·
 [Evaluation](docs/EVALUATION.md) ·
 [Verification](docs/VERIFICATION.md) ·
